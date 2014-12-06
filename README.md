@@ -1,4 +1,4 @@
-# Buffer PHP Style Guide
+# SponzorME PHP Style Guide
 
 *Very much a work in progress :)*
 
